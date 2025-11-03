@@ -1,0 +1,11 @@
+{
+  "id": "obsidian-rg-linker",
+  "name": "RG Linker",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Find similar notes via ripgrep and insert wiki links.",
+  "author": "you",
+  "authorUrl": "",
+  "isDesktopOnly": true
+}
+
