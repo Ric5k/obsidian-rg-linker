@@ -4,8 +4,8 @@
   "version": "0.1.0",
   "minAppVersion": "1.5.0",
   "description": "Find similar notes via ripgrep and insert wiki links.",
-  "author": "you",
-  "authorUrl": "",
+  "author": "Ric5k",
+  "authorUrl": "https://github.com/Ric5k",
   "isDesktopOnly": true
 }
 
